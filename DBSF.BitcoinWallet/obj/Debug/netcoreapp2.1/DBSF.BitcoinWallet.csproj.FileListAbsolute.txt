@@ -1,0 +1,14 @@
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\bin\Debug\netcoreapp2.1\DBSF.BitcoinWallet.deps.json
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\bin\Debug\netcoreapp2.1\DBSF.BitcoinWallet.runtimeconfig.json
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\bin\Debug\netcoreapp2.1\DBSF.BitcoinWallet.runtimeconfig.dev.json
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\bin\Debug\netcoreapp2.1\DBSF.BitcoinWallet.dll
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\bin\Debug\netcoreapp2.1\DBSF.BitcoinWallet.pdb
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.csprojAssemblyReference.cache
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.csproj.CoreCompileInputs.cache
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.RazorAssemblyInfo.cache
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.RazorAssemblyInfo.cs
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.AssemblyInfoInputs.cache
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.AssemblyInfo.cs
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.dll
+C:\Users\dougl\source\repos\DBSF.BitcoinWallet\DBSF.BitcoinWallet\obj\Debug\netcoreapp2.1\DBSF.BitcoinWallet.pdb
